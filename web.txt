@@ -1,0 +1,69 @@
+﻿https://www.naraeon.net/en/pci-express-linkwidth-linkspeed/
+
+逐步解說： 建立和使用您自己動態連結程式庫 （c + +）
+https://docs.microsoft.com/zh-tw/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=vs-2017
+
+GitHub
+linux/drivers/pci/pcie/aspm.c
+https://github.com/torvalds/linux/blob/master/drivers/pci/pcie/aspm.c
+
+淺析PCIe鏈路LTSSM狀態機
+https://blog.csdn.net/zhuzongpeng/article/details/78995340
+
+過去分詞用作補語與被動態的區別
+https://blog.cybertranslator.idv.tw/archives/8992
+
+NVMe 用戶空間驅動（二）：實現1
+https://zhuanlan.zhihu.com/p/49944748
+
+N.T.開講：PCI-E標準再晉級 解說1.1版本新增規格 提供設計參考
+https://www.2cm.com.tw/2cm/zh-tw/magazine/-Technology/E223A99BE0554524B5A42C922CFA2B1A
+
+SCM是什麼鬼，NVMe與其結合將賦予存儲介質哪些能力？
+https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/78516810
+
+基於4 KB數據塊映射的固態硬碟算法
+https://kknews.cc/tech/lpopbk2.html
+
+Self-Encrypting Drives
+https://wiki.archlinux.org/index.php/Self-Encrypting_Drives
+
+解救英文苦難的IT人
+https://ithelp.ithome.com.tw/articles/10199590
+
+PCIe總線的基礎知識
+https://blog.csdn.net/lizhiqiang5846/article/details/24801277
+
+SD/eMMC驅動詳解
+https://blog.csdn.net/junzhang1122/article/details/50175677
+
+塊設備驅動架構分析
+https://blog.csdn.net/coding__madman/article/details/51585603
+
+Threading in C#
+http://www.albahari.com/threading/part2.aspx#_Thread_Safety_and_NET_Framework_Types
+
+結構，GC回收，靜態成員，靜態類
+http://wiki.jikexueyuan.com/project/csharp-confusing-concepts-summary/structure-gc-recycling.html
+
+IO系統性能之一：衡量性能的幾個指標
+http://storage.it168.com/a2011/0323/1169/000001169755_all.shtml
+
+PCIE協議解析 synopsys IP PCI Express Capability 讀書筆記（13）
+https://blog.csdn.net/yijingjijng/article/details/48136991
+
+用C++寫擴展改善Python性能
+https://www.jianshu.com/p/6c107a472d17
+
+PCIe掃盲系列博文連載目錄篇
+http://blog.chinaaet.com/justlxy/p/5100053328
+https://blog.csdn.net/linuxdrivers/article/details/5849698
+
+SATA RTD3是個啥？
+http://www.10tiao.com/html/609/201611/2652239772/1.html
+
+SSD Windows CODE
+https://www.naraeon.net/en/?s=NVMe+Command
+
+SATA秘籍驚現江湖
+https://blog.csdn.net/zhuzongpeng/article/details/76136054
